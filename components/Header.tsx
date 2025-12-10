@@ -10,7 +10,7 @@ export default function Header() {
         
         {/* LOGO */}
         <Image 
-          src="/logo.png" 
+          src="/Logo.png" 
           alt="Netflix Logo" 
           width={148} 
           height={40} 

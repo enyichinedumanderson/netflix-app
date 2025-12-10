@@ -13,7 +13,7 @@ export default function SignIn() {
         {/* Your downloaded logo */}
         
         <Image
-          src="/logo.png"
+          src="/Logo.png"
           alt="Netflix Logo"
           width={140}
           height={50}
